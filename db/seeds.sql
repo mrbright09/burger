@@ -1,4 +1,4 @@
-use burgerDB;
+use burger_DB;
 
 INSERT INTO burgers (burger_name, devoured) values("Big Ricky", false);
 INSERT INTO burgers (burger_name, devoured) values("Rongy Rongelson", false);

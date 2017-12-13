@@ -7,7 +7,7 @@ else{
   connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : '',
+  password : 'M@liab09',
   database : 'burgerDB'
 });
 }
